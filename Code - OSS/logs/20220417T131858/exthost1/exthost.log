@@ -1,0 +1,6 @@
+[2022-04-17 13:19:04.116] [exthost] [info] Extension host with pid 1480 started
+[2022-04-17 13:19:04.385] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-17 13:19:04.419] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-17 13:19:04.433] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-17 13:19:04.601] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-17 13:19:04.602] [exthost] [info] Extension host with pid 1480 exiting with code 0

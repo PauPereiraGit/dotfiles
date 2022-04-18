@@ -1,0 +1,15 @@
+[2022-04-18 01:30:13.698] [sharedprocess] [info] Starting worker process with pid 2046 (type: fileWatcher, window: 1).
+[2022-04-18 01:30:16.469] [sharedprocess] [info] Getting Manifest... ms-vscode.js-debug-companion
+[2022-04-18 01:30:16.472] [sharedprocess] [info] Getting Manifest... ms-vscode.references-view
+[2022-04-18 01:30:17.244] [sharedprocess] [info] Installing extension: ms-vscode.js-debug-companion
+[2022-04-18 01:30:17.251] [sharedprocess] [info] Installing extension: ms-vscode.references-view
+[2022-04-18 01:30:18.028] [sharedprocess] [info] Downloaded extension: ms-vscode.references-view /home/jongsu/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.references-view-0.0.89
+[2022-04-18 01:30:18.031] [sharedprocess] [info] Downloaded extension: ms-vscode.js-debug-companion /home/jongsu/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.js-debug-companion-1.0.17
+[2022-04-18 01:30:18.080] [sharedprocess] [info] Extracted extension to /home/jongsu/.vscode-oss/extensions/.4ca40b06-0285-49a6-90f7-cc17efaf40ef: ms-vscode.references-view
+[2022-04-18 01:30:18.085] [sharedprocess] [info] Extracted extension to /home/jongsu/.vscode-oss/extensions/.097230c9-6d69-493e-b3e1-ad07bdb4d980: ms-vscode.js-debug-companion
+[2022-04-18 01:30:18.087] [sharedprocess] [info] Renamed to /home/jongsu/.vscode-oss/extensions/ms-vscode.references-view-0.0.89
+[2022-04-18 01:30:18.091] [sharedprocess] [info] Extracting completed. ms-vscode.references-view
+[2022-04-18 01:30:18.093] [sharedprocess] [info] Renamed to /home/jongsu/.vscode-oss/extensions/ms-vscode.js-debug-companion-1.0.17
+[2022-04-18 01:30:18.095] [sharedprocess] [info] Extracting completed. ms-vscode.js-debug-companion
+[2022-04-18 01:30:18.101] [sharedprocess] [info] Extension installed successfully: ms-vscode.references-view
+[2022-04-18 01:30:18.102] [sharedprocess] [info] Extension installed successfully: ms-vscode.js-debug-companion
